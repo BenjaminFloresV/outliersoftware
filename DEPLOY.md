@@ -192,6 +192,27 @@ Puede tardar 1–2 minutos en verse la primera vez. Si ves 404, espera un poco y
 
 ---
 
+## Troubleshooting: página en blanco o 404
+
+Si al abrir `https://tu-usuario.github.io/outliersoftware/` ves página en blanco o error 404:
+
+1. **Comprueba el origen de GitHub Pages**
+   - Repo → **Settings** → **Pages**.
+   - En **Build and deployment**, **Source** debe ser **GitHub Actions**, no "Deploy from a branch".
+   - Si estaba en "Deploy from a branch", cámbialo a **GitHub Actions** y guarda.
+
+2. **Comprueba que el workflow se ejecutó**
+   - Repo → pestaña **Actions**. Debe haber una ejecución de "Deploy to GitHub Pages" en verde (éxito).
+   - Si falló, abre la ejecución y revisa el error. Si no hay ejecuciones, haz un push a `main` para disparar el workflow.
+
+3. **Nombre del repositorio**
+   - La URL es `https://<usuario>.github.io/<nombre-repo>/`. Si el repo se llama `outlierapps`, la URL será `.../outlierapps/`. Entonces en `vite.config.js` y en `src/main.jsx` el `base` / `basename` debe ser `'/outlierapps/'` y `"/outlierapps"` (mismo nombre que el repo).
+
+4. **Caché del navegador**
+   - Prueba en ventana privada o borra caché; a veces se sirve una versión antigua.
+
+---
+
 ## Resumen de comandos (despliegue manual)
 
 ```bash

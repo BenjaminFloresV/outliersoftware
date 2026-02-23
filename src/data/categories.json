@@ -1,0 +1,23 @@
+[
+  {
+    "id": "android",
+    "name": "Android",
+    "shortDescription": "Mobile apps for Android.",
+    "path": "android",
+    "active": true
+  },
+  {
+    "id": "web",
+    "name": "Web",
+    "shortDescription": "Web apps and sites.",
+    "path": "web",
+    "active": false
+  },
+  {
+    "id": "games",
+    "name": "Games",
+    "shortDescription": "Video games and interactive experiences.",
+    "path": "games",
+    "active": false
+  }
+]

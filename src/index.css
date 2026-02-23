@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  line-height: 1.5;
+  color: #1a1a1a;
+  background: #fafafa;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.markdown-content h1 { font-size: 1.5rem; margin: 1.5rem 0 0.75rem; }
+.markdown-content h2 { font-size: 1.25rem; margin: 1.25rem 0 0.5rem; }
+.markdown-content p { margin: 0.5rem 0; }
+.markdown-content ul { margin: 0.5rem 0; padding-left: 1.5rem; }
+.markdown-content a { color: #2563eb; }
+.markdown-content a:hover { text-decoration: underline; }

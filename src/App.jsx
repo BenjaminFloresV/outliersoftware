@@ -10,11 +10,11 @@ export default function App() {
   return (
     <Layout>
       <Routes>
-        <Route path="/" element={<CategoryHome />} />
-        <Route path="/android" element={<Home />} />
-        <Route path="/android/app/:id" element={<AppDetail />} />
         <Route path="/android/app/:id/privacy" element={<Privacy />} />
         <Route path="/android/app/:id/terms" element={<Terms />} />
+        <Route path="/android/app/:id" element={<AppDetail />} />
+        <Route path="/android" element={<Home />} />
+        <Route path="/" element={<CategoryHome />} />
       </Routes>
     </Layout>
   )

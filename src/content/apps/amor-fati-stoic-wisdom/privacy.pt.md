@@ -94,7 +94,7 @@ Os dados da nuvem são guardados nos Estados Unidos. Se você mora em outro paí
 ## Por quanto tempo guardamos seus dados
 
 - **No seu celular:** até que você os apague, limpe o armazenamento do app ou desinstale o app.
-- **Na nuvem:** enquanto sua conta existir. Quando você nos pedir para excluir sua conta, nós a excluiremos junto com seus dados da nuvem em até 30 dias. Não guardamos cópias de segurança do banco de dados, então os dados excluídos não podem ser recuperados.
+- **Na nuvem:** enquanto sua conta existir. Se você excluir sua conta pelo app, ela é excluída junto com seus dados da nuvem na hora; se você pedir por e-mail, em até 30 dias. Não guardamos cópias de segurança do banco de dados, então os dados excluídos não podem ser recuperados.
 - **Os registros de compra** são guardados pelo Google Play conforme as políticas dele.
 
 ## Seus direitos
@@ -102,7 +102,7 @@ Os dados da nuvem são guardados nos Estados Unidos. Se você mora em outro paí
 Dependendo de onde você mora, você pode ter o direito de acessar seus dados, corrigi-los, excluí-los, receber uma cópia, se opor ao uso que fazemos deles ou restringi-lo, e apresentar reclamação à autoridade de proteção de dados do seu país.
 
 - Você pode ver e editar seu diário e seus exames da noite no app a qualquer momento, e exportá-los em PDF.
-- Para excluir sua conta e seus dados da nuvem, siga os passos de [Como excluir sua conta](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=pt).
+- Para excluir sua conta e seus dados da nuvem, vá em Perfil > Excluir minha conta no app, ou siga os passos de [Como excluir sua conta](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=pt).
 - Para qualquer outra coisa, escreva para nós. Podemos pedir que você escreva a partir do e-mail da sua Conta do Google para confirmar que o pedido é seu. Responderemos em até 30 dias.
 
 Se você mora na Califórnia: não vendemos nem compartilhamos suas informações pessoais, no sentido que a CCPA dá a esses termos.

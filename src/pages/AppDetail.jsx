@@ -32,6 +32,8 @@ export default function AppDetail() {
         <Link to={`/android/app/${app.id}/privacy`}>Privacy policy</Link>
         <span style={sepStyle}> · </span>
         <Link to={`/android/app/${app.id}/terms`}>Terms and conditions</Link>
+        <span style={sepStyle}> · </span>
+        <Link to={`/android/app/${app.id}/delete-account`}>Delete account</Link>
       </nav>
     </>
   )

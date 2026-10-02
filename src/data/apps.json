@@ -3,8 +3,8 @@
     "id": "amor-fati-stoic-wisdom",
     "name": "Amor Fati Stoic Wisdom",
     "shortDescription": "A personal development application based on Stoic philosophy.",
-    "description": "A personal development application based on Stoic philosophy. It utilizes an interactive roulette mechanism to deliver daily quotes and wisdom from authors like Marcus Aurelius. The app features a gamified habit-building system with daily streaks and rank progression. It operates on a Freemium model, storing all user progress locally on the device to ensure privacy, without requiring user registration. The service may include advertisements and optional in-app purchases.",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.outliersoftware.amorfaitstoicwisdom",
-    "iconUrl": "https://play-lh.googleusercontent.com/T0g_5K3V6DkQKdK6Y1ZQJz7CkN443_zgYKk9-6sX_k14xOy_9eQv1Fh6_lY=s180-rw"
+    "description": "A personal development application based on Stoic philosophy. It utilizes an interactive roulette mechanism to deliver daily quotes and wisdom from authors like Marcus Aurelius, and builds the habit with daily streaks and rank progression. It includes a private journal and a night exam. It is free to use, with an optional Premium subscription. Your data stays on your phone unless you have Premium and sign in with Google to back it up to the cloud. The app has no ads.",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.datacach_developments.amorfati",
+    "iconUrl": "https://play-lh.googleusercontent.com/wQ0eBlsFvePJc-tJV92NxuyJW1Udk6RMh46h6O_w5RXkzeIk3N_B4DGZHWYy95v-5Ik9NSoTg7vSBOllqBkd=s180-rw"
   }
 ]

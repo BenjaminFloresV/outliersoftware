@@ -24,7 +24,7 @@ No guardamos copias de seguridad de la base de datos, así que, una vez borrados
 ## Qué no se borra
 
 - **Tu suscripción.** Borrar tu cuenta no cancela Premium. Cancélala en Google Play, en [Pagos y suscripciones](https://play.google.com/store/account/subscriptions).
-- **Los datos de tu teléfono.** Tu diario y tu progreso siguen en el teléfono hasta que desinstales la app o borres su almacenamiento en los ajustes de Android. Si más adelante vuelves a iniciar sesión, la app los volverá a subir.
+- **Los datos de tu teléfono.** Tu diario y tu progreso siguen en el teléfono hasta que desinstales la app o borres su almacenamiento en los ajustes de Android. Si más adelante vuelves a iniciar sesión, la app los tratará como datos de otra cuenta: te ofrecerá quitarlos del teléfono y no los subirá.
 - **Tu copia de seguridad de Android.** Si la copia de seguridad está activada, puede haber una copia de tu progreso y tu diario en la copia del dispositivo de tu cuenta de Google. La gestionas desde tu cuenta de Google.
 - **Los registros de compra,** que Google Play guarda según sus propias políticas.
 

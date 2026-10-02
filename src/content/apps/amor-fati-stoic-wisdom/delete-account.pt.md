@@ -24,7 +24,7 @@ Não guardamos cópias de segurança do banco de dados, então, depois de exclu�
 ## O que não é excluído
 
 - **Sua assinatura.** Excluir sua conta não cancela o Premium. Cancele no Google Play, em [Pagamentos e assinaturas](https://play.google.com/store/account/subscriptions).
-- **Os dados no seu celular.** Seu diário e seu progresso continuam no celular até que você desinstale o app ou limpe o armazenamento dele nas configurações do Android. Se você entrar de novo mais tarde, o app vai enviá-los outra vez.
+- **Os dados no seu celular.** Seu diário e seu progresso continuam no celular até que você desinstale o app ou limpe o armazenamento dele nas configurações do Android. Se você entrar de novo mais tarde, o app vai tratá-los como dados de outra conta: oferecerá removê-los do celular e não vai enviá-los.
 - **Seu backup do Android.** Se o backup estiver ativado, pode haver uma cópia do seu progresso e do seu diário no backup do dispositivo na sua Conta do Google. Você o gerencia pela sua Conta do Google.
 - **Os registros de compra,** que o Google Play guarda conforme as políticas dele.
 

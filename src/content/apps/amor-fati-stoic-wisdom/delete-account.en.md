@@ -22,7 +22,7 @@ We don't keep backup copies of the database, so once deleted, this data cannot b
 ## What is not deleted
 
 - **Your subscription.** Deleting your account does not cancel Premium. Cancel it in Google Play, under [Payments & subscriptions](https://play.google.com/store/account/subscriptions).
-- **The data on your phone.** Your journal and progress stay on the phone until you uninstall the app or clear its storage in Android settings. If you sign in again later, the app will upload them again.
+- **The data on your phone.** Your journal and progress stay on the phone until you uninstall the app or clear its storage in Android settings. If you sign in again later, the app will treat them as another account's data: it will offer to remove them from the phone and won't upload them.
 - **Your Android backup.** If backup is on, a copy of your progress and journal may be in your Google account's device backup. You manage it from your Google account.
 - **Purchase records,** which Google Play keeps under its own policies.
 

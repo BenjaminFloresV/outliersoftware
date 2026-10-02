@@ -8,7 +8,7 @@ Esta página explica como excluir sua conta do Amor Fati e os dados que você te
 
 ## Pelo app
 
-No app, vá em **Perfil > Excluir minha conta**. Você confirma com sua Conta do Google, e sua conta e seus dados na nuvem são excluídos na hora. Você também pode escolher excluir o diário e o progresso do seu celular.
+No app, vá em **Perfil > Excluir minha conta**. Você confirma com sua Conta do Google, e sua conta e seus dados na nuvem são excluídos na hora. Você também pode escolher excluir o diário e o progresso do seu celular. Se você usa o app em outro celular, saia da conta lá antes; caso contrário, ele pode enviar seu diário de novo.
 
 ## Por e-mail
 

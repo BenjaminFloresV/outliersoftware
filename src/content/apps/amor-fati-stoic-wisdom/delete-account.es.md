@@ -8,7 +8,7 @@ Esta página explica cómo borrar tu cuenta de Amor Fati y los datos que tienes 
 
 ## Desde la app
 
-En la app, ve a **Perfil > Borrar mi cuenta**. Lo confirmas con tu cuenta de Google, y tu cuenta y tus datos de la nube se borran en el momento. También puedes elegir borrar el diario y el progreso de tu teléfono.
+En la app, ve a **Perfil > Borrar mi cuenta**. Lo confirmas con tu cuenta de Google, y tu cuenta y tus datos de la nube se borran en el momento. También puedes elegir borrar el diario y el progreso de tu teléfono. Si usas la app en otro teléfono, cierra sesión allí antes; si no, podría volver a subir tu diario.
 
 ## Por correo
 

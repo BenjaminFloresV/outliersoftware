@@ -6,7 +6,7 @@ This page explains how to delete your Amor Fati account and the data you have st
 
 ## From the app
 
-In the app, go to **Profile > Delete my account**. You'll confirm with your Google account, and your account and your cloud data are deleted right away. You can also choose to delete the journal and progress on your phone.
+In the app, go to **Profile > Delete my account**. You'll confirm with your Google account, and your account and your cloud data are deleted right away. You can also choose to delete the journal and progress on your phone. If you use the app on another phone, sign out there first; otherwise it could upload your journal again.
 
 ## By email
 

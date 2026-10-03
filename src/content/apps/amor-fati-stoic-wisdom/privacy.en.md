@@ -92,7 +92,7 @@ Cloud data is stored in the United States. If you live elsewhere, your data is t
 ## How long we keep your data
 
 - **On your phone:** until you delete it, clear the app's storage or uninstall the app.
-- **In the cloud:** while your account exists. When you ask us to delete your account, we delete it and your cloud data within 30 days. We don't keep backup copies of the database, so deleted data cannot be recovered.
+- **In the cloud:** while your account exists. If you delete your account from the app, it and your cloud data are deleted right away; if you ask us by email, within 30 days. We don't keep backup copies of the database, so deleted data cannot be recovered.
 - **Purchase records** are kept by Google Play under its own policies.
 
 ## Your rights
@@ -100,7 +100,7 @@ Cloud data is stored in the United States. If you live elsewhere, your data is t
 Depending on where you live, you may have the right to access your data, correct it, delete it, receive a copy of it, object to or restrict how we use it, and complain to your data protection authority.
 
 - You can see and edit your journal and night exams in the app at any time, and export them as a PDF.
-- To delete your account and your cloud data, follow the steps in [How to delete your account](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=en).
+- To delete your account and your cloud data, go to Profile > Delete my account in the app, or follow the steps in [How to delete your account](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=en).
 - For anything else, email us. We may ask you to write from your Google account's email address so we can confirm the request is yours. We will answer within 30 days.
 
 If you live in California: we do not sell or share your personal information, as those terms are defined by the CCPA.

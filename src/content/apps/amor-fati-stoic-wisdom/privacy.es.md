@@ -94,7 +94,7 @@ Los datos de la nube se guardan en Estados Unidos. Si vives en otro país, tus d
 ## Cuánto tiempo guardamos tus datos
 
 - **En tu teléfono:** hasta que los borres, borres el almacenamiento de la app o la desinstales.
-- **En la nube:** mientras exista tu cuenta. Cuando nos pidas borrar tu cuenta, la borraremos junto con tus datos de la nube en un plazo de 30 días. No guardamos copias de seguridad de la base de datos, así que los datos borrados no se pueden recuperar.
+- **En la nube:** mientras exista tu cuenta. Si borras tu cuenta desde la app, se borra junto con tus datos de la nube en el momento; si nos lo pides por correo, en un plazo de 30 días. No guardamos copias de seguridad de la base de datos, así que los datos borrados no se pueden recuperar.
 - **Los registros de compra** los guarda Google Play según sus propias políticas.
 
 ## Tus derechos
@@ -102,7 +102,7 @@ Los datos de la nube se guardan en Estados Unidos. Si vives en otro país, tus d
 Según dónde vivas, puedes tener derecho a acceder a tus datos, corregirlos, borrarlos, recibir una copia, oponerte a que los usemos o limitar ese uso, y reclamar ante la autoridad de protección de datos de tu país.
 
 - Puedes ver y editar tu diario y tus exámenes de la noche en la app en cualquier momento, y exportarlos en PDF.
-- Para borrar tu cuenta y tus datos de la nube, sigue los pasos de [Cómo borrar tu cuenta](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=es).
+- Para borrar tu cuenta y tus datos de la nube, ve a Perfil > Borrar mi cuenta en la app, o sigue los pasos de [Cómo borrar tu cuenta](#/android/app/amor-fati-stoic-wisdom/delete-account?lang=es).
 - Para cualquier otra cosa, escríbenos. Es posible que te pidamos escribir desde el correo de tu cuenta de Google para confirmar que la solicitud es tuya. Te responderemos en un plazo de 30 días.
 
 Si vives en California: no vendemos ni compartimos tu información personal, en el sentido que da a esos términos la CCPA.
